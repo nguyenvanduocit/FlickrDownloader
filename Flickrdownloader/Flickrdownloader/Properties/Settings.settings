@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Flickrdownloader.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="downloadPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">d:\</Value>
+    </Setting>
+    <Setting Name="keyword" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="setID" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="perpage" Type="System.String" Scope="User">
+      <Value Profile="(Default)">250</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
